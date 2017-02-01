@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NFC ExtendedLength Fix</string>
+    <string name="xposedDescription">Changes NativeNfcManager.getMaxTransceiveLength to return 2462
+        instead of 261.
+    </string>
+</resources>
